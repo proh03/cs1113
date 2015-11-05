@@ -1,2 +1,2 @@
-person = raw_input ('Kate')
-print ('hello ') + person = !
+person = raw_input ('Pragati')
+print ('Hello' + person = '!')
